@@ -1,7 +1,7 @@
 # 2021-04-07 Election Results
 Analyzing election results after election prediction
 
-# 2021년 4월 7일 보궐선거 분석 목적
+## 2021년 4월 7일 보궐선거 분석 목적
 - 20대의 표가 예상과 달리 보수에 쏠린 것으로 판단
 - 20대의 주요 논쟁사안과 후보 공약을 통해 선거 결과 분석ing
 
