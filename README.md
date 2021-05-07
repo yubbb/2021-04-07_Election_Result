@@ -1,4 +1,4 @@
-# 2021-04-07 Election Result
+# 2021-04-07 Election Results
 - After election forecast, analyzing election results
 
 # 2021년 4월 7일 보궐선거 분석
