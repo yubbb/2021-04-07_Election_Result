@@ -1,6 +1,9 @@
 # 2021-04-07 Election Result
+- After election forecast, analyzing election results
 
 # 2021년 4월 7일 보궐선거 분석
+- 20대의 표가 예상과 달리 보수에 쏠린 것으로 판단
+- 20대의 분위기와 당선 후보 공약 간의 영향 예측
 
 ## 2021-04-07 보궐선거 분석 경로수정 현황
 - 2030 표심 및 정치성향 분석
